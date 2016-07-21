@@ -3,8 +3,9 @@ layout:     post
 title:      "CSII-Project:FSB后管集团业务"
 subtitle:   "集团设置"
 author:     "Jiaming"
-date:     2016-07-12 17:10:00+08:00  
+date:     2016-07-12 17:10:00 +0800  
 header-img: "img/post-bg-android.jpg"
+categories:    [CSII, FSB, Work]
 tags:
     - CSII
     - FSB

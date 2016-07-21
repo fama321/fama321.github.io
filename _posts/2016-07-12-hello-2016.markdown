@@ -3,8 +3,9 @@ layout:     post
 title:      "Hello World Hello Blog"
 subtitle:   ""
 author:     "Jiaming"
-date:     2016-07-12 05:00:00+08:00
+date:     2016-07-12 05:00:00 +0800
 header-img: "img/post-bg-android.jpg"
+category:    Life
 tags:
     - Life
 ---

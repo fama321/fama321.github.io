@@ -3,8 +3,9 @@ layout:     post
 title:      "没有什么是永恒的，包括dota"
 subtitle:   "pk输了 记"
 author:     "Jiaming"
-date:     2016-07-12 23:00:00+08:00
+date:     2016-07-12 23:00:00 +0800
 header-img: "img/post-bg-dota1.jpg"
+categories:    [Dota, Life]
 tags:
     - Dota
     - Life
