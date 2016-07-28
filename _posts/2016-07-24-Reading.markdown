@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Reading"
+subtitle:   "读书使人进步"
+author:     "Jiaming"
+date:     2016-07-24 06:40:00 +0800  
+header-img: ""
+categories:    [读书]
+tags:
+    - 读书
+---
+
+## 书单
+<br/>
+乔治·奥威尔
+
+阿道斯·赫胥黎
+
+<!--https://github.com/programthink-->
